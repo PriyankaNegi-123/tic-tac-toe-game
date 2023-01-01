@@ -38,11 +38,11 @@ h1{
     align-items: center;
     box-shadow: 2px 3px 5px white;
     color:brown;
-    background-color: rgb(254, 221, 173);
+    background-color: rgb(199, 161, 102);
 }
 
 .box:hover{
-    background-color: rgb(237, 223, 173);
+    background-color: rgb(211, 137, 185);
     cursor: pointer;
 }
 
