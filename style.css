@@ -66,3 +66,17 @@ h1{
     border: 2px solid greenyellow;
     box-shadow: 1px 9px 9px black;
 }
+
+@media (max-width: 555px){
+    h1{
+        font-size: 3rem;
+    }
+    .container{
+        grid-template-rows: repeat(3, 14vw);
+        grid-template-columns: repeat(3, 14vw);
+        margin-left: 3rem;
+    }
+    .status{
+        font-size: 2rem;
+    }
+}
